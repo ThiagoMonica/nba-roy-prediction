@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ThiagoMonica/nba-roy-prediction/blob/17bd77b7683c4b75cb6f8069154317dee78a3c9d/imgs/nba-roy-logo.jpg" alt="nba-logo" width="1000"/>
+</p>
+
 # 🏀 Predicting the NBA Rookie of the Year  
 
 The **NBA Rookie of the Year** award has gained global prominence due to the increasing popularity of basketball and the substantial revenue from broadcasts and sponsorships. Rookies aim to showcase their best performances to secure the title and enhance their visibility in the league.  
